@@ -1,8 +1,8 @@
-# Production-Grade DevOps Pipeline on AWS (Cost-Optimized EKS)
+# DevOps Pipeline on AWS (Cost-Optimized EKS)
 
 ## Project Overview
 
-This project demonstrates a **production-grade DevOps pipeline** using modern cloud-native tools, designed with **cost optimization** and **real-world best practices** in mind.
+This project demonstrates a **DevOps pipeline** using modern cloud-native tools, designed with **cost optimization** and **real-world best practices** in mind.
 
 The infrastructure is provisioned temporarily for demonstration purposes and **fully destroyed after validation** to avoid unnecessary AWS costs.
 
